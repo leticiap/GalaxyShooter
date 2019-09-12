@@ -1,2 +1,2 @@
-# GalaxyShooter
+# Galaxy Shooter
 Galaxy Shooter Game
